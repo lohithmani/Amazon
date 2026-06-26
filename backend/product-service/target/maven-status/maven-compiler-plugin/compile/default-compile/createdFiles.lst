@@ -1,0 +1,7 @@
+com\amazon\product\ProductCatalogSeeder.class
+com\amazon\product\ProductServiceApplication.class
+com\amazon\product\ProductResponse.class
+com\amazon\product\ProductCatalogSeeder$DummyJsonProduct.class
+com\amazon\product\ProductCatalogSeeder$DummyJsonCatalog.class
+com\amazon\product\ProductController.class
+com\amazon\product\ProductRepository.class

@@ -1,0 +1,6 @@
+D:\Amazon\backend\api-gateway\src\main\java\com\amazon\gateway\ApiGatewayApplication.java
+D:\Amazon\backend\api-gateway\src\main\java\com\amazon\gateway\config\CorsConfig.java
+D:\Amazon\backend\api-gateway\src\main\java\com\amazon\gateway\config\GatewayRoutesConfig.java
+D:\Amazon\backend\api-gateway\src\main\java\com\amazon\gateway\filter\JwtGatewayAuthenticationFilter.java
+D:\Amazon\backend\api-gateway\src\main\java\com\amazon\gateway\filter\RequestLoggingFilter.java
+D:\Amazon\backend\api-gateway\src\main\java\com\amazon\gateway\filter\SimpleRateLimitFilter.java
