@@ -1,0 +1,10 @@
+D:\Amazon\backend\auth-service\src\main\java\com\amazon\auth\AuthController.java
+D:\Amazon\backend\auth-service\src\main\java\com\amazon\auth\AuthDtos.java
+D:\Amazon\backend\auth-service\src\main\java\com\amazon\auth\AuthRepository.java
+D:\Amazon\backend\auth-service\src\main\java\com\amazon\auth\AuthService.java
+D:\Amazon\backend\auth-service\src\main\java\com\amazon\auth\AuthServiceApplication.java
+D:\Amazon\backend\auth-service\src\main\java\com\amazon\auth\JwtAuthenticationFilter.java
+D:\Amazon\backend\auth-service\src\main\java\com\amazon\auth\JwtPrincipal.java
+D:\Amazon\backend\auth-service\src\main\java\com\amazon\auth\JwtService.java
+D:\Amazon\backend\auth-service\src\main\java\com\amazon\auth\SecurityConfig.java
+D:\Amazon\backend\auth-service\src\main\java\com\amazon\auth\UserAccount.java
